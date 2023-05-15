@@ -12,9 +12,9 @@
 
     "E": "ژانر: کودکانه",
 
-    "F": "https://coderapi.ir/api/bazimorakab.json"
-
-  },
+    «ف»: «https://coderapi.ir/api/soti.json
+را
+  }،
 
   {
 
@@ -26,19 +26,19 @@
 
     "D": "شازده کوچولو ماجرای یک پسر بچه بازیگوش است که...",
 
-    "E": "ژانر: کودکانه",
-
-    "F": "https://coderapi.ir/api/bazimorakab.json"
+    "ه": "ژانر: کودکانه"،
+را
+    «ف»: «https://coderapi.ir/api/soti.json»
 
   },
 
   {
 
-    "A": "https://s8.uupload.ir/files/1-188_65qm.jpg",
-
-    "B": "شازده کوچولو",
-
-    "C": "آنتوان دوسنت پری",
+    "الف": "https://s8.uupload.ir/files/1-188_65qm.jpg"،
+را
+    «ب»: «شازده کوچولو»،
+را
+    "ج": "آنتوان دوسنت پری"،
 
     "D": "شازده کوچولو ماجرای یک پسر بچه بازیگوش است که...",
 
