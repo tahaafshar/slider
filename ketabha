@@ -14,7 +14,7 @@
 
     "E": "تاریخی",
 
-    "F": "https://coderapi.ir/api/shazdehkocholo.json"
+    "F": "https://coderapi.ir/api/shryar.json"
 
   },
 
@@ -30,7 +30,7 @@
 
     "E": "تاریخی | درام",
 
-    "F": "https://coderapi.ir/api/shazdehkocholo.json"
+    "F": "https://coderapi.ir/api/bofkor.json"
 
   },
 
@@ -46,7 +46,7 @@
 
     "E": " درام | کودکانه",
 
-    "F": "https://coderapi.ir/api/shazdehkocholo.json"
+    "F": "https://coderapi.ir/api/enghsk.json"
 
   }
 
